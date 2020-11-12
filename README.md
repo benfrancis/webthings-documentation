@@ -11,6 +11,7 @@ It is an open source implementation of emerging [Web of Things](https://www.w3.o
 * [Getting Started Guide - Docker](https://github.com/WebThingsIO/gateway-docker/blob/master/README.md)
 * [User Guide](./gateway-user-guide.md)
 * [Supported Hardware](https://github.com/WebThingsIO/wiki/wiki/Supported-Hardware)
+
 #### Tips
 * [Pairing SmartThings sensors](https://github.com/WebThingsIO/wiki/wiki/Pairing-SmartThings-sensors)
 * [Configuring the Arlec Smart Plug](https://github.com/WebThingsIO/wiki/wiki/Arlec-Smart-Plug)
@@ -18,7 +19,6 @@ It is an open source implementation of emerging [Web of Things](https://www.w3.o
 * [Factory reset a Hue bulb](https://github.com/WebThingsIO/wiki/wiki/HOWTO%3A-Factory-reset-a-Hue-bulb)
 * [Factory reset a Hue Wireless Dimmer](https://github.com/WebThingsIO/wiki/wiki/HOWTO%3A-Factory-reset-a-Hue-Wireless-Dimmer)
 * [Factory reset an IKEA bulb](https://github.com/WebThingsIO/wiki/wiki/HOWTO%3A-Factory-reset-an-IKEA-bulb)
-
 
 ## Developer Guide
 
@@ -37,6 +37,7 @@ The Web Thing API is the REST & WebSockets API used by the WebThings IoT platfor
 * [Creating a new translation](https://github.com/WebThingsIO/wiki/wiki/Fluent%3A-Making-a-new-translation)
 * [Testing pre-release OTA updates](https://github.com/WebThingsIO/wiki/wiki/Testing-prerelease-OTA-updates)
 * [Releasing a Gateway OTA Update](https://github.com/WebThingsIO/wiki/wiki/How-To-Release-a-Gateway-OTA-Update)
+
 #### Add-Ons
 * [Introduction to Add-ons](https://github.com/WebThingsIO/addon-list/blob/master/guidelines.md)
 * [Creating an Add-on](https://github.com/WebThingsIO/wiki/wiki/HOWTO%3A-Create-an-add-on)
@@ -54,6 +55,7 @@ The Web Thing API is the REST & WebSockets API used by the WebThings IoT platfor
 
 ### WebThings Framework
 [WebThings Framework](https://webthings.io/framework/) is a collection of re-usable software components to help developers build their own web things which directly expose the Web Thing API.
+
 #### WebThings Libraries
 * [Node.js](https://github.com/WebThingsIO/webthing-node)
 * [Python](https://github.com/WebThingsIO/webthing-python)
@@ -61,6 +63,7 @@ The Web Thing API is the REST & WebSockets API used by the WebThings IoT platfor
 * [Rust](https://github.com/WebThingsIO/webthing-rust)
 * [Arduino](https://github.com/WebThingsIO/webthing-arduino)
 * [MicroPython](https://github.com/WebThingsIO/webthing-upy)
+
 #### Third Party Libraries
 * [Moddable](https://github.com/Moddable-OpenSource/moddable/blob/public/documentation/network/webthings.md)
 * [Atmosphere IoT](https://developer.atmosphereiot.com/documents/guides/gettingstartedwebthings.html)
